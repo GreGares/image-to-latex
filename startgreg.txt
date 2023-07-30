@@ -1,0 +1,2 @@
+git clone https://github.com/kingyiusuen/image-to-latex.git
+cd image-to-latex
